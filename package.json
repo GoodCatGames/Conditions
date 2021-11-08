@@ -1,0 +1,16 @@
+{
+    "name": "com.goodcat.conditions",
+    "author": "GoodCat",
+    "displayName": "Conditions",
+    "description": "Light encapsulation and composition of conditions.",
+    "unity": "2020.3",
+    "version": "2021.11.8",
+    "keywords": [
+        "conditions"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GoodCatGames/Conditions.git"
+    }
+}
